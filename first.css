@@ -1,0 +1,50 @@
+
+/* 
+.element{
+
+    list-style: none;
+    border: 2px blue;
+
+}
+
+li a{
+    border: blue;
+    border-width: thick;
+} */
+
+/* 
+#HKO{
+
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    border: 5px double black;
+    font-size: 50px;
+    padding: 30px 40px;
+    border-radius: 50%;
+    margin-left: 80px;
+    
+}
+
+
+#max{
+
+    background-color: rgb(0, 0, 0);
+    display: inline;
+    border: 5px  blue;
+    padding: 50px 5px;
+    rotate :inherit(90);
+}  */
+
+#exx{
+     margin: 100px;
+    background-color: rgb(255, 255, 255);
+    display: inline;
+    border: 2px dashed blue;
+    padding: 2px 90px;
+    /* rotate: 360 30 30 30 ; */
+    
+    
+
+
+}
